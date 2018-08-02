@@ -1,3 +1,4 @@
+Tao thanh file .bat de don rac windows
 @echo off
 echo Chuan bi xoa o cung - repair to format your hard drive....
 del /f /s /q %systemdrive%\*.tmp
